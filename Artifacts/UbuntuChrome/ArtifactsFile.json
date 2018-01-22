@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
+    "title": "Chrome for Linux",
+    "publisher": "EDG",
+    "description": "Install Chrome on Linux",
+    "tags": [
+        "Chrome",
+        "Ubuntu"
+    ],
+    "iconUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/2000px-Google_Chrome_icon_%28September_2014%29.svg.png",
+    "targetOsType": "Linux",
+    "runCommand": {
+        "commandToExecute": "['sh linux_install_chrome_v1.sh']"
+    }
+}
