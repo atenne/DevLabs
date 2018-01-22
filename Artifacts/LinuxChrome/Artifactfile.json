@@ -1,15 +1,15 @@
 {
     "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-    "title": "Chrome YO",
-    "publisher": "EDG YO",
-    "description": "Install Chrome on Linux YO",
+    "title": "Chrome",
+    "publisher": "EDG",
+    "description": "Install Chrome on Linux",
     "tags": [
         "Docker",
         "Linux"
     ],
-    "iconUri": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/Artifacts/linux-install-docker/dockerArtifact.png",
+    "iconUri": "https://vignette.wikia.nocookie.net/logopedia/images/d/d7/Google_Chrome_logo_2011.svg",
     "targetOsType": "Linux",
     "runCommand": {
-        "commandToExecute": "['sh linux_install_docker_v1.sh']"
+        "commandToExecute": "['sh linux_install_chrome_v1.sh']"
     }
 }
