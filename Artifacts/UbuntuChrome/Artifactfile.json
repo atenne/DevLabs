@@ -5,7 +5,8 @@
     "description": "Install Chrome on Ubuntu - All versions",
     "tags": [
         "Chrome",
-        "Linux"
+        "Linux",
+        "Ubuntu"
     ],
     "iconUri": "https://raw.githubusercontent.com/balteravishay/DTL_AI/master/Artifacts/UbuntuChrome/logo.ico",
     "targetOsType": "Linux",
