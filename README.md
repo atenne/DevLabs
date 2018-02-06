@@ -4,5 +4,5 @@ This is a Personal (?) Repo that will be used for our artifacts and ARM Template
 
 
 ## Tasks:
-    *  We need to make sure that no one has Access to this REPO!
-    * ...
+    ⋅⋅*  We need to make sure that no one has Access to this REPO!
+    ..* ...
