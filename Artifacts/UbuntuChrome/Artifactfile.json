@@ -8,7 +8,7 @@
         "Linux",
         "Ubuntu"
     ],
-    "iconUri": "https://raw.githubusercontent.com/balteravishay/DTL_AI/master/Artifacts/UbuntuChrome/logo.ico",
+    "iconUri": "https://github.com/atenne/DevLabs/blob/master/Artifacts/UbuntuChrome/logo.ico",
     "targetOsType": "Linux",
     "runCommand": {
         "commandToExecute": "['sh ubuntu_install_chrome_v2.sh']"
