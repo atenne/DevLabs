@@ -11,6 +11,8 @@
     "iconUri": "https://github.com/atenne/DevLabs/blob/master/Artifacts/UbuntuChrome/logo.ico",
     "targetOsType": "Linux",
     "runCommand": {
-        "commandToExecute": "['sh ubuntu_install_chrome_v2.sh']"
+        "commandToExecute": "['sh ubuntu_install_chrome_v1.sh']"
     }
-}
+}   
+
+
